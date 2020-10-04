@@ -2,4 +2,7 @@
     <string name="app_name">DessetChoice</string>
     <string name="DessertChoice">デザートチョイス</string>
     <string name="add_list">リスト追加</string>
+    <string name="add">追加</string>
+    <string name="list_name">リスト名</string>
+    <string name="dessert">デザート</string>
 </resources>

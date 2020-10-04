@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235876194081",
+    "firebase_url": "https://dessertchoice.firebaseio.com",
+    "project_id": "dessertchoice",
+    "storage_bucket": "dessertchoice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235876194081:android:c4a13d177d907ca0235060",
+        "android_client_info": {
+          "package_name": "com.example.masaki.dessetchoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235876194081-c8ilggp0bhm6mj164q3is3o7cf6ofn4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQWxii_yd0KsqePE5ASaVn-tbCZqXQP8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235876194081-c8ilggp0bhm6mj164q3is3o7cf6ofn4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
